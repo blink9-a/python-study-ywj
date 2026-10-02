@@ -42,3 +42,8 @@
 
 - 오늘 한 일 (Work Done): 함수, 매개변수, return 기본 개념 실습
 - 다음 작업 (Next Step): 함수를 활용한 문제 실습
+
+### 2026-10-01
+
+- 오늘 한 일 (Work Done): 함수를 활용한 점수 및 가격 계산 기능 구현
+- 다음 작업 (Next Step): Tkinter 기본 GUI 구성
