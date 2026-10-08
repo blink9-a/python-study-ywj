@@ -47,3 +47,8 @@
 
 - 오늘 한 일 (Work Done): 함수를 활용한 점수 및 가격 계산 기능 구현
 - 다음 작업 (Next Step): Tkinter 기본 GUI 구성
+
+### 2026-10-06
+
+- 오늘 한 일 (Work Done): Tkinter 기본 GUI 창 생성
+- 다음 작업 (Next Step): 이미지 불러오기, 크기 조절, 회전
