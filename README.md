@@ -52,3 +52,8 @@
 
 - 오늘 한 일 (Work Done): Tkinter 기본 GUI 창 생성
 - 다음 작업 (Next Step): 이미지 불러오기, 크기 조절, 회전
+
+### 2026-10-13
+
+- 오늘 한 일 (Work Done): Tkinter와 Pillow를 활용한 이미지 배치, 크기 조절 및 회전 기능 구현
+- 다음 작업 (Next Step): 파이썬 배열의 기본 개념 및 활용
