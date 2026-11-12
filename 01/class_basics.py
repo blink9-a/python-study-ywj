@@ -30,6 +30,9 @@ class Hero04:
         self.name = name
         self.hp = hp
 
+        # 마나의 초기값을 설정합니다.
+        self.mp = 50
+
 
 # 기사 객체를 생성합니다.
 c04_hero1 = Hero04("기사", 100)
@@ -40,3 +43,38 @@ c04_hero2 = Hero04("마법사", 80)
 # 두 객체의 정보를 출력합니다.
 print(c04_hero1.name, c04_hero1.hp)
 print(c04_hero2.name, c04_hero2.hp)
+
+
+# 3. 객체의 속성 추가 및 변경
+
+# 기사 객체의 이름과 체력을 변경합니다.
+c04_hero1.name = "전사"
+c04_hero1.hp = 120
+
+# 변경된 정보를 출력합니다.
+print(c04_hero1.name, c04_hero1.hp)
+
+# 두 객체의 마나를 출력합니다.
+print(c04_hero1.mp)
+print(c04_hero2.mp)
+
+
+# 4. 메서드 기본 개념
+
+# Hero05 클래스를 정의합니다.
+class Hero05:
+
+    # 캐릭터의 이름을 설정합니다.
+    def __init__(self, name):
+        self.name = name
+
+    # 캐릭터가 인사하는 메서드를 정의합니다.
+    def introduce(self):
+        print("안녕하세요! 저는", self.name, "입니다.")
+
+
+# 기사 객체를 생성합니다.
+c05_hero = Hero05("기사")
+
+# 객체의 introduce 메서드를 호출합니다.
+c05_hero.introduce()
