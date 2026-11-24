@@ -112,4 +112,7 @@
 - 다음 작업 (Next Step): Ursina를 활용한 게임 제작
 
 
+### 2026-11-24
+- 오늘 한 일 (Work Done): 3D 오브젝트 생성 및 카메라 조작 실습
+- 다음 작업 (Next Step): Entity 실습
 
